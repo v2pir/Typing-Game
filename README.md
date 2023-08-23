@@ -1,10 +1,16 @@
 # Typing-Game
 Here's a fun typing game I made over the summer.
 
-To import ptext, copy the ptext.py file and put it in your folder. You will be able to import ptext.
+Creator of ptext: cosmologicon ptext github link: https://github.com/cosmologicon/pygame-text
 
-Visit the creator of ptext: https://github.com/cosmologicon.
+Creator: Vansh Chhabra 
 
-This program is made using python/pygame.
+Please give me credit if you plan on using this program and posting it somewhere
 
-If you want to post this elsewhere, please give me credit.
+This game is written using python. I use pygame for all graphics and ptext to display text on the screen.
+
+# Using and Installing Dependencies
+
+1. `git clone https://github.com/v2pir/Typing-Game.git`
+2. `cd Typing-Game`
+3. Run typing.py with `python3 typing.py`
